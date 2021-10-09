@@ -15,10 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hola perrooos
         </a>
+        <label for="name"> Nombre:</label>
       </header>
+      
     </div>
+    
   );
 }
 
